@@ -13,6 +13,7 @@ body{
 	color: #e39223;
 	font-family: 'Academy';
 	font-size: 1.25em;
+	text-align: justify;
 	margin: 3em 5em;
 }
 
@@ -65,6 +66,6 @@ a{
 
 .caption{
 	font-size: 1em;
-	padding: 1em;
 	text-align: center;
+	padding: 1em;
 }
