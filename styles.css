@@ -1,19 +1,15 @@
 @font-face{
 	font-family: 'Academy';
-	/* font-style: normal; */
-	/* font-weight: normal; */
 	src: url('academy-regular.ttf');
 }
 
 @font-face{
 	font-family: 'Academy Engraved';
-	/* font-style: normal; */
-	/* font-weight: normal; */
 	src: url('academy-engraved.ttf');
 }
 
 body{
-	background: #251314;
+	background: #230f0f;
 	color: #e39223;
 	font-family: 'Academy';
 	margin: 3em 5em;
