@@ -1,0 +1,46 @@
+@font-face{
+	font-family: 'Academy';
+	/* font-style: normal; */
+	/* font-weight: normal; */
+	src: url('academy-regular.ttf');
+}
+
+@font-face{
+	font-family: 'Academy Engraved';
+	/* font-style: normal; */
+	/* font-weight: normal; */
+	src: url('academy-engraved.ttf');
+}
+
+body{
+	background: #251314;
+	color: #e39223;
+	font-family: 'Academy';
+	margin: 3em 5em;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+	font-family: 'Academy Engraved';
+}
+
+a{
+	color: #ffc778;
+	text-decoration: none;
+}
+
+.video{
+	width: 100%;
+	aspect-ratio: 16 / 9;
+	border: 0.1em solid #ffc778;
+}
+
+.caption{
+	font-size: small;
+	padding: 1em;
+	text-align: center;
+}
