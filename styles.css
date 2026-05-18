@@ -11,7 +11,7 @@ body{
 	font-family: 'Playfair Display';
 	font-size: 1.25em;
 	text-align: justify;
-	margin: 4em 5em;
+	margin: 3.5em 5em;
 }
 
 h1{
@@ -63,7 +63,7 @@ a{
 
 .caption{
 	font-size: 1em;
+	font-style: italic;
 	text-align: center;
-	text-decoration: italic;
 	padding: 0.75em 0 0.5em 0;
 }
