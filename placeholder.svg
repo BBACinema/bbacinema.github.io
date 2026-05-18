@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="4800" height="2700" viewBox="0 0 4800 2700">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4800 2700">
 	<defs>
 		<rect id="1" width="1200" height="1250" fill="#251314" rx="60" x="1800"/>
 		<rect id="2" width="150" height="150" fill="#251314" rx="30"/>
