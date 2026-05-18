@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="4800" height="2700">
+	<defs>
+		<rect id="1" width="1200" height="1250" fill="#251314" rx="60" x="1800"/>
+		<rect id="2" width="150" height="150" fill="#251314" rx="30"/>
+		<g id="3">
+			<use href="#2" y="-75"/>
+			<use href="#2" y="150"/>
+			<use href="#2" y="375"/>
+			<use href="#2" y="600"/>
+			<use href="#2" y="825"/>
+			<use href="#2" y="1050"/>
+			<use href="#2" y="1275"/>
+			<use href="#2" y="1500"/>
+			<use href="#2" y="1725"/>
+			<use href="#2" y="1950"/>
+			<use href="#2" y="2175"/>
+			<use href="#2" y="2400"/>
+			<use href="#2" y="2625"/>
+		</g>
+	</defs>
+	<rect width="4800" height="2700" fill="#251314"/>
+	<rect width="1800" height="2700" fill="#e39223" x="1500"/>
+	<use href="#1" y="-625"/>
+	<use href="#1" y="725"/>
+	<use href="#1" y="2075"/>
+	<use href="#3" x="1575"/>
+	<use href="#3" x="3075"/>
+</svg>
