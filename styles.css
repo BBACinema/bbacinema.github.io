@@ -55,6 +55,14 @@ a{
 	text-decoration: none;
 }
 
+a:hover{
+	filter: brightness(120%);
+}
+
+a:active{
+	filter: brightness(80%);
+}
+
 .video{
 	width: 100%;
 	aspect-ratio: 16 / 9;
@@ -66,4 +74,9 @@ a{
 	font-style: italic;
 	text-align: center;
 	padding: 0.7em 0 1.5em 0;
+}
+
+.award-icon{
+	width: 2em;
+	height: 2em;
 }
